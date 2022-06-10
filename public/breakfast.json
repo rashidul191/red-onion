@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bf1",
+    "name": "Bagel and Cream cheese",
+    "price": "6.99",
+    "img": "breakfast1.png",
+    "img2": "breakfast2.png",
+    "img3": "breakfast3.png",
+    "description": "Gay one the what walk then she. Demesne mention promise you justice arrived way. Amazing foods are Or and increasing to in especially inquietude companions acceptance admiration. Out weigh it families distance wandered ye."
+  },
+  {
+    "id": "bf2",
+    "name": "Breakfast sandwich",
+    "price": "9.99",
+    "img": "breakfast2.png",
+    "img2": "breakfast5.png",
+    "img3": "breakfast4.png",
+    "description": "Gay one the what walk then she. Demesne mention promise you justice arrived way. Amazing foods are Or and increasing to in especially inquietude companions acceptance admiration. Out weigh it families distance wandered ye."
+  },
+  {
+    "id": "bf3",
+    "name": "Baked Chiken",
+    "price": "10.99",
+    "img": "breakfast3.png",
+    "img2": "breakfast6.png",
+    "img3": "breakfast1.png",
+    "description": "Gay one the what walk then she. Demesne mention promise you justice arrived way. Amazing foods are Or and increasing to in especially inquietude companions acceptance admiration. Out weigh it families distance wandered ye."
+  },
+  {
+    "id": "bf4",
+    "name": "Eggs Benedict",
+    "price": "8.99",
+    "img": "breakfast4.png",
+    "img2": "breakfast2.png",
+    "img3": "breakfast3.png",
+    "description": "Gay one the what walk then she. Demesne mention promise you justice arrived way. Amazing foods are Or and increasing to in especially inquietude companions acceptance admiration. Out weigh it families distance wandered ye."
+  },
+  {
+    "id": "bf5",
+    "name": "Toast Croissant Fried egg",
+    "price": "19.99",
+    "img": "breakfast5.png",
+    "img2": "breakfast4.png",
+    "img3": "breakfast6.png",
+    "description": "Gay one the what walk then she. Demesne mention promise you justice arrived way. Amazing foods are Or and increasing to in especially inquietude companions acceptance admiration. Out weigh it families distance wandered ye."
+  },
+  {
+    "id": "bf6",
+    "name": "Full Breakfast Fried Egg Toast Brunch",
+    "price": "3.99",
+    "img": "breakfast6.png",
+    "img2": "breakfast2.png",
+    "img3": "breakfast3.png",
+    "description": "Gay one the what walk then she. Demesne mention promise you justice arrived way. Amazing foods are Or and increasing to in especially inquietude companions acceptance admiration. Out weigh it families distance wandered ye."
+  }
+]

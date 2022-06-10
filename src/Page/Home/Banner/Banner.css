@@ -1,0 +1,6 @@
+#banner-section{
+    background-image: url('../../../images/bannerbackground.png');
+    height: 25rem;
+    background-repeat: no-repeat;
+    background-position: center;
+}
