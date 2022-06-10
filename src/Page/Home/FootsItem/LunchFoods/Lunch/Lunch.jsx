@@ -1,12 +1,13 @@
 import React from "react";
 
 const Lunch = (props) => {
-  const { name, img, price, description } = props.food;
+  const { handleFoodDetails, food } = props;
+  const { name, img, price, description,id } = food;
   return (
-    <div className="col">
+    <div className="col" onClick={() => handleFoodDetails(id)}>
       <div className="card">
         <img
-        className="mx-auto"
+          className="mx-auto"
           width={120}
           src={require(`../../../../../images/lunch/${img}`)}
           alt=""
@@ -14,7 +15,9 @@ const Lunch = (props) => {
         <div className="card-body">
           <h4>{name}</h4>
           <p>{description.slice(0, 20)}</p>
-          <h6>$ <span className="text-warning">{price}</span></h6>
+          <h6>
+            $ <span className="text-warning">{price}</span>
+          </h6>
         </div>
       </div>
     </div>
